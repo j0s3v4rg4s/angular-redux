@@ -15,5 +15,8 @@
     "ts-node": "^7.0.1",
     "typescript": "^3.2.2",
     "typescript-eslint-parser": "^21.0.2"
+  },
+  "dependencies": {
+    "redux": "^4.0.1"
   }
 }
