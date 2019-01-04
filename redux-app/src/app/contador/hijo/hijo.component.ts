@@ -22,6 +22,6 @@ export class HijoComponent implements OnInit {
   }
 
   dividir() {
-    this.store.dispatch(new DividirActions(1234123412));
+    this.store.dispatch(new DividirActions(5));
   }
 }
